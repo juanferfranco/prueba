@@ -1,1 +1,3 @@
 Esto es para arreglar el issue 2
+
+Cambio 2 para el issue 2
